@@ -1,4 +1,3 @@
-# Welcome to the coolest question guessing game
 
 name = input('Name: ')
 play = input('Welcome {}, would you like to play? (y,n): '.format(name)).lower()
